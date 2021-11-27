@@ -1,6 +1,0 @@
-# IDEs, caches, etc.
-*.ipynb_*
-*__pycache__*
-
-# data
-data/*
