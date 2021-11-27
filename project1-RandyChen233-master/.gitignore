@@ -1,0 +1,10 @@
+# IDEs, caches, etc.
+.cache/*
+.idea/*
+*.ipynb_*
+*.pyc
+.pytest_cache/*
+*/bin/*
+
+# Data
+data/*
